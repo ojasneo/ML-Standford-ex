@@ -1,4 +1,4 @@
-# ML-Stanford-exdo 
+# ML-ex
 This is my solution to ML coures. Please don't copy it, try to solve it by your own.  
 
 ## Content
